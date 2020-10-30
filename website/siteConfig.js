@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'aakash-chitrakar-8ba21177',
-        facebook: 'skysketcher23',
+        twitter: 'chitrakarakash',
         github: 'achitrakar23',
     },
 
